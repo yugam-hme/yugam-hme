@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yugam
-- 🚀 I’m currently working with HealthifyMe
+- 🚀 I’m currently working at HealthifyMe
 - 📫 How to reach me at yugam.gangar@healthify.co
 
 <!---
